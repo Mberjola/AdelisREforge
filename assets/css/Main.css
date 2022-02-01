@@ -30,14 +30,16 @@ body{
     height: 100%;
     display: inline-block;
     width: fit-content;
-    padding: 10px;
+    padding-left: 3%;
+    padding-top: 3%;
     
 
    
 }
 
 #LogoAdelis{
-    height: 100%;
+    height: 50%;
+    width: 50%;
     
     
       
@@ -86,9 +88,9 @@ body{
 .text {
   color: white;
   font-family: 'Delius Swash Caps', cursive;
-  justify-content:flex-start;
+  
   font-size: 15rem;
-  padding: 100px;
+  padding: 5%;
   position: absolute;
   bottom: 20%;
   width: 100%;
